@@ -1,5 +1,7 @@
 ## Unreleased
 
+- Use pygments.rb 2.1.0
+
 ## 0.30.0
 
 - Use greenmat 3.5.1.0
